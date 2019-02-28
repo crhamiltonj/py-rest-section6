@@ -1,5 +1,6 @@
 /.vscode
 /venv
+/.idea
 __pycache__
 data.db
 code/data.db
